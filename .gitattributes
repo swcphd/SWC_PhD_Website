@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+fonts/* linguist-vendored
+js/plugins/* linguist-vendored
+js/vendor/* linguist-vendored
+js/main.js linguist-vendored
+_sass/vendor/* linguist-vendored
