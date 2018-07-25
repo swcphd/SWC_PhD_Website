@@ -1,5 +1,20 @@
 # Site navigation links
 
+- title: Events
+  url: /events/
+  excerpt: "All the events we organise go here"
+  image:
+
+- title: Members
+  url: /members/
+  excerpt: "The committee of the society"
+  image:
+
+- title: Contacts
+  url: /contacts/
+  excerpt: "Get in touch!"
+  image:
+
 - title:
   url:
   excerpt:
