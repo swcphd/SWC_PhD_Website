@@ -10,9 +10,13 @@
   excerpt: "The committee of the society"
   image: events_teaser.jpg
 
-
-
 - title: The Centre
   url: /centre/
   excerpt: "Info about the SWC and GCNU"
   image: events_teaser.jpg
+
+- title: Resources
+  url: /resources/
+  excerpt: "Stuff for students"
+  image: events_teaser.jpg
+

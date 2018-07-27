@@ -42,7 +42,7 @@
 
   </head>
 
-  <body id="js-body">
+  <body id="js-body" style="background-color:#E6E9FB;">
     <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
 
     <header id="masthead">
@@ -60,6 +60,9 @@
   
     
     <li><a href="http://localhost:4000/centre/" >The Centre</a></li>
+  
+    
+    <li><a href="http://localhost:4000/resources/" >Resources</a></li>
   
 </ul>
     </nav>
@@ -86,6 +89,12 @@
         <div class="title">The Centre</div>
         <p class="excerpt">Info about the SWC and GCNU</p>
       </a>
+    </li><li>
+      <a href="http://localhost:4000/resources/">
+        <img src="http://localhost:4000/images/events_teaser.jpg" alt="teaser" class="teaser">
+        <div class="title">Resources</div>
+        <p class="excerpt">Stuff for students</p>
+      </a>
     </li>
   </ul>
 </nav>
@@ -97,15 +106,15 @@
 
 
     <div id="page-wrapper">
-      <div id="main" role="main">			
-	<div class="wrap">
+      <div id="main" role="main">
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		
 		
 		<div class="page-title">
 			<h1></h1>
-			
 		</div>
-		<div class="archive-wrap">
-			<div class="page-content">
+		<div class="inner-wrap">
+			<div id="content" class="page-content" itemprop="articleBody">
 				<h4 id="consectetur-adipiscing-elit-ut-sodales-lacus-nec-orci-feugiat-varius-donec-venenatis-metus-velit-eu-tempus-quam-finibus-vitae">Consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae.</h4>
 
 <p>Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.</p>
@@ -120,12 +129,6 @@
 
 <h1 id="events-coming-up">Events coming up!</h1>
 <div class="tiles">
-  
-    
-  
-    
-  
-    
   
     
   
@@ -218,10 +221,20 @@
 <!-- /.tiles -->
 
 
-			</div><!-- /.page-content -->
-		</div class="archive-wrap"><!-- /.archive-wrap -->
-	</div><!-- /.wrap -->
+				<hr />
+				<footer class="page-footer">
+					
+					
+				</footer><!-- /.footer -->
+				<aside>
+					
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		
+	</article><!-- /.wrap -->
 </div><!-- /#main -->
+
       <footer role="contentinfo" id="site-footer">
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">

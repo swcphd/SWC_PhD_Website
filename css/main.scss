@@ -36,7 +36,6 @@ sitemap: false
 
 @import "helpers";
 @import "buttons";
-@import "badges";
 @import "bullets";
 @import "sliding-menu";
 @import "menu-navicons"; /* animated 3 line menu icon */
@@ -66,6 +65,12 @@ img[alt="wideimg"] {
 img[alt="smallimg"] {
   width:  40px;
   max-height: 40px;
+  display: block;
+}
+
+
+img[alt="personImg"] {
+  width:  50%;
   display: block;
 }
 

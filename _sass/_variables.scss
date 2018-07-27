@@ -21,19 +21,23 @@ $border-radius               	: 3px;
    Color variables
    ========================================================================== */
 
-$white                        : #fff;
+$white                        : #ffffff ;
 $black                        : #000;
-$light_blue                   : #032661;
+$dark_grey                    : #E6E9FB;
+$darker_grey                  : #333232;
 
-$body-color                  	: #ebebeb;
+$light_blue                   : #6B7CB3  ;
+$blue                         : #6475D0 ;
 
-$text-color                  	: #313130;
-$caption-color                : mix($white, $text-color, 25%);
+$body-color                  	: #595858;
+
+$text-color                  	: #333232;
+$caption-color                : mix($black, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
-$link-color                  	: #222;
+$link-color                  	: #383636;
 
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
@@ -81,12 +85,12 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $light_blue;
-$sliding-menu-background 		   : $light_blue;
+$sliding-menu-border-color	 	 : $darker_grey;
+$sliding-menu-background 		   : $darker_grey;
 $sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $light_blue;
+$sliding-menu-background-hover : $darker_grey;
 $sliding-menu-color-hover	 	   : $white;
-$sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
+$sliding-menu-border   			   : 100px solid $black;
 $button-size		         	     : 40px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
 $sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
@@ -108,4 +112,4 @@ $badge-font-color              : $white;
    Masthead variables
    ========================================================================== */
 
-$masthead-height: $button-size * 2;
+$masthead-height: $button-size * 1.5;
