@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-27T20:59:27+01:00</updated><id>http://localhost:4000/</id><title type="html">SWC PhD society</title><subtitle>This site will host the SWC-CNU PhD society website, but it is currently a work in progress</subtitle><entry><title type="html">Mem Ber</title><link href="http://localhost:4000/members/member/" rel="alternate" type="text/html" title="Mem Ber" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member</id><content type="html" xml:base="http://localhost:4000/members/member/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;inline-btn&quot;&gt;
+  &lt;div&gt;   &lt;/div&gt;
+	&lt;a class=&quot;btn-social twitter&quot; href=&quot;https:twitter.com&quot;&gt;
+    &lt;i class=&quot;fa fa-twitter&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
+  &lt;a class=&quot;btn-social facebook&quot; href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Facebook&lt;/a&gt;
+&lt;/div&gt;
+&lt;!-- /.share-this --&gt;
+
+&lt;h3 id=&quot;brief-bio-of-the-member&quot;&gt;Brief Bio of the member&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="members" /><summary type="html">Here is were you put a short sentence about people</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests/Guest1/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests/Guest1</id><content type="html" xml:base="http://localhost:4000/guests/Guest1/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;image-title-here&quot; class=&quot;img-responsive&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://google.com&quot;&gt;Their website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="guests" /><summary type="html">Their website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests/Guest1-Copy/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests/Guest1%20-%20Copy</id><content type="html" xml:base="http://localhost:4000/guests/Guest1-Copy/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;image-title-here&quot; class=&quot;img-responsive&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://google.com&quot;&gt;Their website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="guests" /><summary type="html">Their website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests/Guest1-Copy-(3)/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests/Guest1%20-%20Copy%20(3)</id><content type="html" xml:base="http://localhost:4000/guests/Guest1-Copy-(3)/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;image-title-here&quot; class=&quot;img-responsive&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://google.com&quot;&gt;Their website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="guests" /><summary type="html">Their website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests/Guest1-Copy-(2)/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests/Guest1%20-%20Copy%20(2)</id><content type="html" xml:base="http://localhost:4000/guests/Guest1-Copy-(2)/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;image-title-here&quot; class=&quot;img-responsive&quot; /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://google.com&quot;&gt;Their website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="guests" /><summary type="html">Their website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1</id><content type="html" xml:base="http://localhost:4000/events-archived/event1/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
+
+&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
+&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;
+&lt;!-- /.tiles --&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1-Copy/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1%20-%20Copy</id><content type="html" xml:base="http://localhost:4000/events-archived/event1-Copy/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
+
+&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
+&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;
+&lt;!-- /.tiles --&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1-Copy-(5)/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1%20-%20Copy%20(5)</id><content type="html" xml:base="http://localhost:4000/events-archived/event1-Copy-(5)/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
+
+&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
+&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;
+&lt;!-- /.tiles --&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1-Copy-(4)/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1%20-%20Copy%20(4)</id><content type="html" xml:base="http://localhost:4000/events-archived/event1-Copy-(4)/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
+
+&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
+&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;
+&lt;!-- /.tiles --&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1-Copy-(3)/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1%20-%20Copy%20(3)</id><content type="html" xml:base="http://localhost:4000/events-archived/event1-Copy-(3)/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
+
+&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
+&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(3)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+        &lt;/a&gt;
+    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1-Copy-(2)/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
+    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;
+Their website
+
+&lt;/p&gt;
+  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;
+&lt;!-- /.tiles --&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry></feed>
