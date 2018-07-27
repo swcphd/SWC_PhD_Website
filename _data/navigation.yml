@@ -3,19 +3,16 @@
 - title: Events
   url: /events/
   excerpt: "All the events we organise go here"
-  image:
+  image: events_teaser.jpg
 
-- title: Members
-  url: /members/
+- title: The Society
+  url: /society/
   excerpt: "The committee of the society"
-  image:
+  image: events_teaser.jpg
 
-- title: Contacts
-  url: /contacts/
-  excerpt: "Get in touch!"
-  image:
 
-- title:
-  url:
-  excerpt:
-  image:
+
+- title: The Centre
+  url: /centre/
+  excerpt: "Info about the SWC and GCNU"
+  image: events_teaser.jpg

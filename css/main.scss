@@ -43,6 +43,7 @@ sitemap: false
 @import "notices";
 @import "animations";
 @import "tiles";
+@import "tiles-square";
 @import "footnotes";
 @import "toc"; /* table of contents */
 @import "breadcrumbs";
@@ -53,3 +54,18 @@ sitemap: false
    ========================================================================== */
 
 @import "layout";
+
+
+img[alt="wideimg"] {
+  width:  100%;
+  max-height: 400px;
+  display: block;
+}
+
+
+img[alt="smallimg"] {
+  width:  40px;
+  max-height: 40px;
+  display: block;
+}
+

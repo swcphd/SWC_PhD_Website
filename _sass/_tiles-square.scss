@@ -2,36 +2,39 @@
    Tiles
    ========================================================================== */
 
-.tile {
+.tile-square {
   @include outer-container;
   margin-bottom: $gutter;
   margin-right: $gutter;
+
   @include media($micro) {
     @include fill-parent;
   }
   @include media(new-breakpoint(min-width em(600) 12)) {
-    @include span-columns(3.5);
+    @include span-columns(8);
   }
-  .entry-date {
-    @include font-size(16,no);
-    color: lighten($text-color,25);
-  }
+
   .post-title {
     @include font-size(18,no);
   }
   .post-excerpt {
     @include font-size(16);
+    position: relative;
+    display: block;
+    top: 0;
+    right: 0;
+
   }
   .post-teaser {
     position: relative;
     display: block;
-
+    padding-right: 40px;
     &:after {
       content: '';
       position: absolute;
-      width: 100%;
+      width: 400%;
       height: 100%;
-      top: 0;
+      bottom: 0;
       left: 0;
       background: rgba($base-color,0);
       pointer-events: none;
