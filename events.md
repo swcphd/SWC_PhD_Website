@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: Events
+url: /events
 share: false
 ---
 #### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit,  
