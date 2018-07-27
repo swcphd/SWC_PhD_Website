@@ -1,6 +1,6 @@
 ---
 layout: media
-permalink: /
+permalink: 
 title:
 share: false
 url: https://swcphd.github.io/SWC_PhD_Website/
