@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/events/event1-Copy-(2)/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/events/event1-Copy-(3)/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/events/event1-Copy-(4)/</loc>
 <lastmod>2018-07-25T18:47:00+01:00</lastmod>
 </url>
@@ -21,18 +13,6 @@
 <lastmod>2018-07-25T18:47:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/events-archived/event1-Copy-(2)/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/events-archived/event1-Copy-(3)/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/events-archived/event1-Copy-(4)/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/events-archived/event1-Copy-(5)/</loc>
 <lastmod>2018-07-25T18:47:00+01:00</lastmod>
 </url>
@@ -42,18 +22,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/events-archived/event1/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/guests/Guest1-Copy-(2)/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/guests/Guest1-Copy-(3)/</loc>
-<lastmod>2018-07-25T18:47:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/guests/Guest1-Copy/</loc>
 <lastmod>2018-07-25T18:47:00+01:00</lastmod>
 </url>
 <url>

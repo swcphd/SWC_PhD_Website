@@ -8,13 +8,14 @@
 
 .btn {
 	display: inline-block;
+	width: 18%;
 	padding: 8px 20px;
-	@include font-size(14);
+	@include font-size(18);
 	font-family: $alt-font;
 	background-color: $primary-color;
 	color: $white;
 	text-decoration: none;
-	border: 0 !important;
+	border: 50 !important;
 	border-radius: 10 * $border-radius;
 	@include transition(background 0.2s, border 0.2s);
 	&:hover {
@@ -33,11 +34,11 @@
 
 .btn-inverse {
 	@extend .btn;
-	background-color: $white;
-	color: $text-color;
+	background-color: $light_blue;
+	color: $white;
 	&:visited,
 	&:active {
-		color: $text-color;
+		color: $white;
 	}
 	&:hover {
 		color: $white;
@@ -126,12 +127,13 @@
 		(tumblr, $tumblr-color),
 		(twitter, $twitter-color),
 		(vimeo, $vimeo-color),
-		(youtube, $youtube-color);
+		(youtube, $youtube-color),
+		(website, $pinterest-color);
 	@extend .btn-inverse;
-	color: $text-color !important;
+	color: $white !important;
 	&:visited,
 	&:active {
-		color: $text-color;
+		color: $white;
 	}
 	border: 1px solid $border-color !important;
 	@each $socialnetwork, $color in $social {
