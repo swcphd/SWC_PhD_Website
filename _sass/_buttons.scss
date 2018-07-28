@@ -8,7 +8,7 @@
 
 .btn {
 	display: inline-block;
-	width: 18%;
+	width: 25%;
 	padding: 8px 20px;
 	@include font-size(18);
 	font-family: $alt-font;
@@ -128,7 +128,7 @@
 		(twitter, $twitter-color),
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color),
-		(website, $pinterest-color);
+		(website, $facebook-color);
 	@extend .btn-inverse;
 	color: $white !important;
 	&:visited,

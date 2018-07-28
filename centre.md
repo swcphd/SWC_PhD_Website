@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: archive
 title: The centre
 image:
   teaser: swc_drawing.jpg
@@ -11,9 +11,11 @@ website: http://www.gatsby.ucl.ac.uk/
 ### The Gatsby Computational Neuroscience Unit
 ![wideimg](/images/GATSBY_Logo.jpg)
 
-{% if page.website %}
-{% include website-button.html %}
-{% endif %}
+<div class="inline-btn">
+	<a class="btn-social website" href="http://www.gatsby.ucl.ac.uk/" target="_blank"> Website</a>
+	<a class="btn-social website" href="http://www.gatsby.ucl.ac.uk/teaching/phd/index.html" target="_blank"> PhD program</a>
+</div><!-- /.share-this -->
+
 
 The Gatsby Computational Neuroscience Unit was created at University College London (UCL) in July 1998, funded by the Gatsby Charitable Foundation . The Unit consists of five faculty members, about ten post-doctoral researchers, about fifteen research students and five support staff.
 The research objectives of the Gatsby Unit are to study neural computational theories of perception and action in neural and machine systems, with an emphasis on learning. The research activity of the Unit is overseen by a Scientific Advisory Board. The Unit's teaching activities are centered on an innovative four-year PhD programme in Computational Neuroscience and Machine Learning.
@@ -31,8 +33,8 @@ Links
  
 <div class="inline-btn">
 	<a class="btn-social website" href="http://www.ucl.ac.uk/swc/about" target="_blank"> Website</a>
-</div><!-- /.share-this -->
-
+	<a class="btn-social website" href="http://www.ucl.ac.uk/swc/phd" target="_blank"> PhD program</a>
+</div>
  
  
 The Sainsbury Wellcome Centre brings together world-leading neuroscientists driven by a common scientific goal: to understand how neural circuits in the brain give rise to the fundamental processes underpinning behaviour. 
