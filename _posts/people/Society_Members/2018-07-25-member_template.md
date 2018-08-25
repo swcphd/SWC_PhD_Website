@@ -8,7 +8,7 @@ image:
 excerpt: 'Here is were you put a short sentence about people'
 share: false
 
-category: members
+category: members_template
 
 twitter: "https:twitter.com"
 ---

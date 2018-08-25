@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: archive
 permalink: 
 title:
 share: false
@@ -8,28 +8,13 @@ url: https://swcphd.github.io/SWC_PhD_Website/
 
 ---
 
-#### Consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae.   
 
-Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.
-
-
-[Test link](https://google.com)  
+{% include fading_igm.html %}
 
 
-![wideimg](images/swc.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.
 
 
-<div style="height:100px;"> </div>
+[![img_intro_small](images/resources_teaser.jpg)](/resources/) [![img_intro_small](images/society_teaser.jpg)](/society/)
 
-# Events coming up!
-<div class="tiles">
-  {% for post in site.posts %}
-    {% if post.categories contains 'events' %}
-    {% include post-grid.html %}
-    {% endif %}
-  {% endfor %}
-</div><!-- /.tiles -->
-
+[![img_intro_large](images/events_teaser.jpg)](/events/)
 

@@ -1,16 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-28T16:14:02+01:00</updated><id>http://localhost:4000/</id><title type="html">SWC PhD society</title><subtitle>This site will host the SWC-CNU PhD society website, but it is currently a work in progress</subtitle><entry><title type="html">Mem Ber</title><link href="http://localhost:4000/members/member/" rel="alternate" type="text/html" title="Mem Ber" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member</id><content type="html" xml:base="http://localhost:4000/members/member/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T16:24:21+01:00</updated><id>http://localhost:4000/</id><title type="html">SWC PhD society</title><subtitle>This site will host the SWC-CNU PhD society website, but it is currently a work in progress</subtitle><entry><title type="html">Mem Ber</title><link href="http://localhost:4000/members_template/member_template/" rel="alternate" type="text/html" title="Mem Ber" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members_template/member_template</id><content type="html" xml:base="http://localhost:4000/members_template/member_template/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;inline-btn&quot;&gt;
   &lt;div&gt;   &lt;/div&gt;
 	&lt;a class=&quot;btn-social twitter&quot; href=&quot;https:twitter.com&quot; target=&quot;_blank&quot;&gt;
     &lt;i class=&quot;fa fa-twitter&quot; aria-hidden=&quot;true&quot; target=&quot;_blank&quot;&gt;&lt;/i&gt; Twitter&lt;/a&gt;
-  &lt;a class=&quot;btn-social facebook&quot; href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Facebook&lt;/a&gt;
 &lt;/div&gt;
 &lt;!-- /.share-this --&gt;
 
 &lt;h3 id=&quot;brief-bio-of-the-member&quot;&gt;Brief Bio of the member&lt;/h3&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="members" /><summary type="html">Here is were you put a short sentence about people</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests/Guest1/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests/Guest1</id><content type="html" xml:base="http://localhost:4000/guests/Guest1/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="members_template" /><summary type="html">Here is were you put a short sentence about people</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">Simon Thompson</title><link href="http://localhost:4000/members/member_SimonThompson/" rel="alternate" type="text/html" title="Simon Thompson" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member_SimonThompson</id><content type="html" xml:base="http://localhost:4000/members/member_SimonThompson/">&lt;p&gt;&lt;img src=&quot;/images/Members/SimonThompson.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Simon Thompson is a PhD student under Dr Andrew Murray with an interest in developing molecular
+ tools to help ask big questions in neuroscience. Current work focusses
+  on manipulating pre-existing viral technologies to trace novel connections in novel directions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the society Simon is Head of Representation, a role involving organising and facilitating
+ meetings between staff, students and other groups within the institute.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With a background of working as a technician in the SWC prior to his PhD,
+ Simon has a lot of background with both the building and people who work there and is always open
+  to help new and existing students settle into their place within the institute.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of representation</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/SimonThompson.jpg%22%7D" /></entry><entry><title type="html">Federico Claudi</title><link href="http://localhost:4000/members/member_FedericoClaudi/" rel="alternate" type="text/html" title="Federico Claudi" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member_FedericoClaudi</id><content type="html" xml:base="http://localhost:4000/members/member_FedericoClaudi/">&lt;p&gt;&lt;img src=&quot;/images/Members/Federico Claudi.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;inline-btn&quot;&gt;
+  &lt;div&gt;   &lt;/div&gt;
+	&lt;a class=&quot;btn-social twitter&quot; href=&quot;https://twitter.com/@Federico_claudi&quot; target=&quot;_blank&quot;&gt;
+    &lt;i class=&quot;fa fa-twitter&quot; aria-hidden=&quot;true&quot; target=&quot;_blank&quot;&gt;&lt;/i&gt; Twitter&lt;/a&gt;
+&lt;/div&gt;
+&lt;!-- /.share-this --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NEED TO WRITE MY BiO&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of communications</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/Federico%20Claudi.jpg%22%7D" /></entry><entry><title type="html">Danbee Kim</title><link href="http://localhost:4000/members/member_DanbeeKim/" rel="alternate" type="text/html" title="Danbee Kim" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member_DanbeeKim</id><content type="html" xml:base="http://localhost:4000/members/member_DanbeeKim/">&lt;p&gt;&lt;img src=&quot;/images/Members/DanbeeKim.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;inline-btn&quot;&gt;
+  &lt;div&gt;   &lt;/div&gt;
+	&lt;a class=&quot;btn-social twitter&quot; href=&quot;https://twitter.com/@taunbot&quot; target=&quot;_blank&quot;&gt;
+    &lt;i class=&quot;fa fa-twitter&quot; aria-hidden=&quot;true&quot; target=&quot;_blank&quot;&gt;&lt;/i&gt; Twitter&lt;/a&gt;
+&lt;/div&gt;
+&lt;!-- /.share-this --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Danbee Kim is currently a PhD candidate in the 2013 cohort of the International Neuroscience 
+Doctoral Programme, headquartered at the Champalimaud Centre for the Unknown in Lisboa, Portugal.
+ They joined the Intelligent Systems Lab in Sept 2013 and moved with the lab to the Sainsbury Wellcome
+  Centre for Neural Circuits and Behaviour in London, UK in 2015.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Danbee’s research combines studies of cuttlefish, the philosophy of science,
+ Perceptual Control Theory, and the evolution of “the brain” throughout time and in many species.
+  In collaboration with NeuroGears, they build interactive art installations that both allow people
+   to participate in field neuroscience experiments, and communicate science in fun and interesting ways.
+    You can learn more at www.EveryMind.Online, and at Danbee’s personal website, www.danbeekim.org.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Danbee spends a lot of time thinking about permaculture, anarchy, circus,
+ and education. They love teaching and being in the wilderness, especially 
+ in the mountains and by the sea. They also train and play as a musician, capoeirista,
+  and VIRS (vigilante intergalactic roustabout scholar).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you would like to get in touch, please tweet @taunbot or email danbee 
+at alum dot mit dot edu.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of socials</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/DanbeeKim.jpg%22%7D" /></entry><entry><title type="html">Anna Lebedeva</title><link href="http://localhost:4000/members/member_AnnaLebedeva/" rel="alternate" type="text/html" title="Anna Lebedeva" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member_AnnaLebedeva</id><content type="html" xml:base="http://localhost:4000/members/member_AnnaLebedeva/">&lt;p&gt;&lt;img src=&quot;/images/Members/anna_photo_160.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Anna Lebedeva studies innate behaviours, including escaping from threatening stimuli, in two species: zebrafish and mice.
+ The aim of the research is to discover the mechanism that implements the visuo-motor transformation,
+  while using the best of both worlds: light-sheet imaging, allowing to record the majority of the fish’s brain
+   simultaneously with behaviour, and complicated decision making process underlying mouse escape in complex situations,
+    while recording a limited set of neurons.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Anna’s previous work includes research projects at the VU University of Amsterdam,
+ where she did electrophysiology recordings in mouse and human brain tissue; at the UCSF,
+  where she studied primary visual cortex plasticity in adult mice using calcium imaging.
+   Her rotations as a PhD student at SWC include a project in the lab of prof. Carandini and prof.
+    Harris, a project in Dr. Bianco lab and a project in Dr. Branco lab. Her undergraduate research
+     was conducted at the department of Mathematics and Mechanics of Moscow State University, where
+      she focused on statistics and graph theory&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of events coordination</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/anna_photo_160.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests/Guest1/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests/Guest1</id><content type="html" xml:base="http://localhost:4000/guests/Guest1/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;inline-btn&quot;&gt;
   &lt;div&gt;   &lt;/div&gt;
@@ -30,6 +109,14 @@
 
 &lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
 &lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -76,6 +163,14 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
       &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
    &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
         &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
@@ -114,6 +209,14 @@
 
 &lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
 &lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -158,82 +261,10 @@
     
   
     
-      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
-   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
-        &lt;/a&gt;
-    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
-    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;Here is were we put a brief drscription of the guest. Something related to their role in the event?&lt;/p&gt;
-  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
-
-  &lt;/article&gt;&lt;!-- /.tile --&gt;
-
-    
   
     
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-&lt;/div&gt;
-&lt;!-- /.tiles --&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events" /><summary type="html">Here is where you put a brief description of the event KSGBJSKNGJEARNBGIAERNGKJ;RE</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A cool event!</title><link href="http://localhost:4000/events/event1-Copy/" rel="alternate" type="text/html" title="A cool event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events/event1%20-%20Copy</id><content type="html" xml:base="http://localhost:4000/events/event1-Copy/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
-&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
-  
-    
-  
-    
-      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
-   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
-        &lt;/a&gt;
-    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
-    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;Here is were we put a brief drscription of the guest. Something related to their role in the event?&lt;/p&gt;
-  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
-
-  &lt;/article&gt;&lt;!-- /.tile --&gt;
-
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-&lt;/div&gt;
-&lt;!-- /.tiles --&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events" /><summary type="html">Here is where you put a brief description of the event KSGBJSKNGJEARNBGIAERNGKJ;RE</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A cool event!</title><link href="http://localhost:4000/events/event1-Copy-(4)/" rel="alternate" type="text/html" title="A cool event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events/event1%20-%20Copy%20(4)</id><content type="html" xml:base="http://localhost:4000/events/event1-Copy-(4)/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
-&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
   
     
   
