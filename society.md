@@ -17,7 +17,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec or
 ### Get in touch
 Ways to communicate with the society: email addresses and stuff
 
-## Our memebers:
+## Our Roles:
+* Communication..
+* Boss
+* Events...
+* bla bla bla...  with link to the people
 
 <div class="tiles-square" style="height: 700px;">
 {% for post in site.posts %}
