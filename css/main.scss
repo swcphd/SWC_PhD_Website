@@ -68,13 +68,15 @@ img[alt="img_intro_large"] {
 }
 
 img[alt="img_intro_small"] {
-  width:  49%;
+  width:  100%;
   height: auto;
   min-height: 300px;
   display: inline;
   border-radius: 50px;
   &:hover {
-    opacity: 0.3;
+    .overlay{
+      opacity: 1;
+    }
   }
 }
 
@@ -83,11 +85,14 @@ img[alt="img_intro_small"] {
   width: 100%;
 }
 
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
+.container_small {
+  position: relative;
+
+  display: inline-block;
+  width: 49%;
 }
+
+
 
 .overlay {
   position: absolute;
@@ -104,6 +109,10 @@ img[alt="img_intro_small"] {
 }
 
 .container:hover .overlay {
+  opacity: 1;
+}
+
+.container_small:hover .overlay {
   opacity: 1;
 }
 
