@@ -6,27 +6,35 @@
   @include outer-container;
   margin-bottom: $gutter;
   margin-right: $gutter;
-  border-radius: 20px;
-  background-color: rgba($light_blue, 0.2);
+  width: 10%;
+  max-width: auto;
 
   @include media($micro) {
     @include fill-parent;
     border-radius: 20px;
+
   }
   @include media(new-breakpoint(min-width em(600) 12)) {
-    @include span-columns(3.5);
+    @include span-columns(2);
+
   }
-  .entry-date {
-    @include font-size(16,no);
-    color: lighten($text-color,5);
+  .post-event_date {
+    @include font-size(24,no);
+    color: lighten($text-color,10);
     padding-left: 15px;
   }
+  .post-event_venue {
+    @include font-size(20,no);
+    color: lighten($text-color,10);
+    padding-left: 15px;
+  }
+
   .post-title {
-    @include font-size(18,no);
+    @include font-size(22,no);
     padding-left: 15px;
   }
   .post-excerpt {
-    @include font-size(16);
+    @include font-size(18);
     padding-left: 15px;
   }
   .post-teaser {
@@ -38,10 +46,9 @@
     &:after {
       content: '';
       border-radius: 20px;
-
-      position: absolute;
       width: 100%;
       height: 100%;
+      position: absolute;
       top: 0;
       left: 0;
       background: rgba($blue,0);

@@ -1,4 +1,265 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T16:24:21+01:00</updated><id>http://localhost:4000/</id><title type="html">SWC PhD society</title><subtitle>This site will host the SWC-CNU PhD society website, but it is currently a work in progress</subtitle><entry><title type="html">Mem Ber</title><link href="http://localhost:4000/members_template/member_template/" rel="alternate" type="text/html" title="Mem Ber" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members_template/member_template</id><content type="html" xml:base="http://localhost:4000/members_template/member_template/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-26T16:58:02+01:00</updated><id>http://localhost:4000/</id><title type="html">SWC PhD society</title><subtitle>This site will host the SWC-CNU PhD society website, but it is currently a work in progress</subtitle><entry><title type="html">What is a quanta of neural computation</title><link href="http://localhost:4000/events/Quanta/" rel="alternate" type="text/html" title="What is a quanta of neural computation" /><published>2018-08-26T00:00:00+01:00</published><updated>2018-08-26T00:00:00+01:00</updated><id>http://localhost:4000/events/Quanta</id><content type="html" xml:base="http://localhost:4000/events/Quanta/">&lt;p&gt;Currently there is no agreement between neuroscientists as to what can be described as a computational
+ unit of the brain. Historically, single neurons have claimed the title as the functional
+  unit of the nervous system, whilst more modern imaging methods have pointed towards neuronal
+   ensembles as being a more robust feature to focus on. Furthermore, the participation of glia
+    in information encoding has been largely ignored, whilst others argue that a more thorough
+     decomposition of behaviour is necessary before we can even begin to understand the brain’s
+      computation.&lt;/p&gt;
+
+&lt;p&gt;More often than not, the cross-talk between researchers working on these different levels
+ of abstraction is quite spare, and we believe bringing researchers together to discuss these
+  questions will help promote collaboration and further our understanding of the important questions
+   in neuroscience, that can’t be solved just by looking from one point of view.&lt;/p&gt;
+
+&lt;p&gt;Speakers: Elisa Galliano, Yoh Isogai
+Short talks: Nick Steinmetz, Victoria Gonzalez, Kostantinos Lagogiannis, Pablo Izquierdo&lt;/p&gt;
+
+&lt;h3 id=&quot;event-details&quot;&gt;Event details&lt;/h3&gt;
+&lt;p&gt;This event will take place at King’s College London on the 12th of October 2018&lt;/p&gt;
+
+&lt;h2 id=&quot;speakers&quot;&gt;Speakers&lt;/h2&gt;
+&lt;div style=&quot;width: 100%; height:25%;&quot;&gt;
+&lt;div class=&quot;tiles-square&quot;&gt;
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      &lt;article class=&quot;tile&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+    &lt;a href=&quot;http://localhost:4000/quanta/guest_YohIsogaio/&quot; title=&quot;Yoh Isogai&quot; class=&quot;post-teaser&quot;&gt;
+      &lt;img src=&quot;http://localhost:4000/images/Guests/YohIsogai.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+      &lt;/a&gt;
+        &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/quanta/guest_YohIsogaio/&quot;&gt;Yoh Isogai
+    &lt;/a&gt;&lt;/h2&gt;
+
+    
+    
+
+
+
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+    &lt;a href=&quot;http://localhost:4000/quanta/guest_VictoriaGonzalez/&quot; title=&quot;Victoria Gonzalez&quot; class=&quot;post-teaser&quot;&gt;
+      &lt;img src=&quot;http://localhost:4000/images/Guests/VictoriaGonzalez.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+      &lt;/a&gt;
+        &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/quanta/guest_VictoriaGonzalez/&quot;&gt;Victoria Gonzalez
+    &lt;/a&gt;&lt;/h2&gt;
+
+    
+    
+
+
+
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+    &lt;a href=&quot;http://localhost:4000/quanta/guest_PabloIzquierdo/&quot; title=&quot;Pablo Izquierdo&quot; class=&quot;post-teaser&quot;&gt;
+      &lt;img src=&quot;http://localhost:4000/images/Guests/PabloIzquierdo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+      &lt;/a&gt;
+        &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/quanta/guest_PabloIzquierdo/&quot;&gt;Pablo Izquierdo
+    &lt;/a&gt;&lt;/h2&gt;
+
+    
+    
+
+
+
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+    &lt;a href=&quot;http://localhost:4000/quanta/guest_NickSteinmetz/&quot; title=&quot;Nick Steinmetz&quot; class=&quot;post-teaser&quot;&gt;
+      &lt;img src=&quot;http://localhost:4000/images/Guests/NickSteinmetz.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+      &lt;/a&gt;
+        &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/quanta/guest_NickSteinmetz/&quot;&gt;Nick Steinmetz
+    &lt;/a&gt;&lt;/h2&gt;
+
+    
+    
+
+
+
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+    &lt;a href=&quot;http://localhost:4000/quanta/guest_KostasLagogiannis/&quot; title=&quot;Kostas Lagogiannis&quot; class=&quot;post-teaser&quot;&gt;
+      &lt;img src=&quot;http://localhost:4000/images/Guests/KostasLagogiannis.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+      &lt;/a&gt;
+        &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/quanta/guest_KostasLagogiannis/&quot;&gt;Kostas Lagogiannis
+    &lt;/a&gt;&lt;/h2&gt;
+
+    
+    
+
+
+
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+      &lt;article class=&quot;tile&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
+    &lt;a href=&quot;http://localhost:4000/quanta/guest_ElisaGalliano/&quot; title=&quot;Elisa Galliano&quot; class=&quot;post-teaser&quot;&gt;
+      &lt;img src=&quot;http://localhost:4000/images/Guests/ElisaGalliano.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
+      &lt;/a&gt;
+        &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/quanta/guest_ElisaGalliano/&quot;&gt;Elisa Galliano
+    &lt;/a&gt;&lt;/h2&gt;
+
+    
+    
+
+
+
+
+  &lt;/article&gt;&lt;!-- /.tile --&gt;
+
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;&lt;!-- /.tiles --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="events" /><summary type="html">Currently there is no agreement between neuroscientists as to what can be described as a computational unit of the brain. Historically, single neurons have claimed the title as the functional unit of the nervous system, whilst more modern imaging methods have pointed towards neuronal ensembles as being a more robust feature to focus on. Furthermore, the participation of glia in information encoding has been largely ignored, whilst others argue that a more thorough decomposition of behaviour is necessary before we can even begin to understand the brain’s computation.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser_large.jpg%22%7D" /></entry><entry><title type="html">Decision making – choosing the tools to discover the rules</title><link href="http://localhost:4000/events/DecisionMaking/" rel="alternate" type="text/html" title="Decision making – choosing the tools to discover the rules" /><published>2018-08-26T00:00:00+01:00</published><updated>2018-08-26T00:00:00+01:00</updated><id>http://localhost:4000/events/DecisionMaking</id><content type="html" xml:base="http://localhost:4000/events/DecisionMaking/">&lt;h1 id=&quot;decision-making&quot;&gt;Decision making&lt;/h1&gt;
+&lt;h2 id=&quot;choosing-the-tools-to-discover-the-rules&quot;&gt;choosing the tools to discover the rules&lt;/h2&gt;
+
+&lt;p&gt;We want to ask the question of how we can best study the neural circuits underlying decisions?
+ To address this question, we need to discuss different types of decision making across different
+  species, as well as different methods that are being used in the field. Therefore,
+   we are inviting speakers working with drosophila, rodents, monkeys and humans, as well
+    as a speaker who focuses on theoretical and computational aspects of decision making.&lt;/p&gt;
+
+&lt;p&gt;Speakers: Scott Waddell, Anne Churchland, Tiago Branco, Jill O’Reilly, Alexandre Pouget&lt;/p&gt;
+
+&lt;h3 id=&quot;event-details&quot;&gt;Event details&lt;/h3&gt;
+&lt;p&gt;This event will take place in Oxford on the 25th and 26th of February 2019&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
+&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;
+&lt;!-- /.tiles --&gt;</content><author><name></name></author><category term="events" /><summary type="html">Decision making choosing the tools to discover the rules</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser_large.jpg%22,%20%22feature%22=%3E%22events_teaser_large.jpg%22%7D" /></entry><entry><title type="html">Cross-species conversations</title><link href="http://localhost:4000/events/CrossSpecies/" rel="alternate" type="text/html" title="Cross-species conversations" /><published>2018-08-26T00:00:00+01:00</published><updated>2018-08-26T00:00:00+01:00</updated><id>http://localhost:4000/events/CrossSpecies</id><content type="html" xml:base="http://localhost:4000/events/CrossSpecies/">&lt;h1 id=&quot;cross-species-conversations&quot;&gt;Cross-species conversations&lt;/h1&gt;
+&lt;h2 id=&quot;integrating-findings-across-different-nervous-systems&quot;&gt;Integrating findings across different nervous systems&lt;/h2&gt;
+&lt;p&gt;Our goal is to think about and discuss how neuroscientific research methods can be improved in order
+ to better integrate research findings from individual species into general principles of nervous systems.
+  Neuroscientists today study many species, but results obtained with one species rarely inform the
+   design or analysis of experiments with another. This raises the question of how studying multiple
+    species can help us ultimately understand the relationship between nervous system function and
+     behavior.&lt;/p&gt;
+
+&lt;p&gt;Speakers: Suzana Herculano-Houzel, Gilles Laurent and Marta Moita
+Panel : Jennifer Bizley, Tim Behrens, Andre Brown&lt;/p&gt;
+
+&lt;h3 id=&quot;event-details&quot;&gt;Event details&lt;/h3&gt;
+&lt;p&gt;This event will take place at the Sainsbury Wellcome Centre on teh 21st of September 2018&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
+&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+&lt;/div&gt;
+&lt;!-- /.tiles --&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events" /><summary type="html">Cross-species conversations Integrating findings across different nervous systems Our goal is to think about and discuss how neuroscientific research methods can be improved in order to better integrate research findings from individual species into general principles of nervous systems. Neuroscientists today study many species, but results obtained with one species rarely inform the design or analysis of experiments with another. This raises the question of how studying multiple species can help us ultimately understand the relationship between nervous system function and behavior. Speakers: Suzana Herculano-Houzel, Gilles Laurent and Marta Moita Panel : Jennifer Bizley, Tim Behrens, Andre Brown</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser_large.jpg%22,%20%22feature%22=%3E%22events_teaser_large.jpg%22%7D" /></entry><entry><title type="html">Mem Ber</title><link href="http://localhost:4000/members_template/member_template/" rel="alternate" type="text/html" title="Mem Ber" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members_template/member_template</id><content type="html" xml:base="http://localhost:4000/members_template/member_template/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;inline-btn&quot;&gt;
   &lt;div&gt;   &lt;/div&gt;
@@ -36,7 +297,15 @@
 &lt;!-- /.share-this --&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;NEED TO WRITE MY BiO&lt;/p&gt;
+  &lt;p&gt;Federico is the head of communications of the society. His main role is to coordinate and facilitate
+the dissemination of information about the resources put together by the society and about future events
+to all PhD students in the institute. Federico is also the person to get in touch with should you have
+issue that concerns the society!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Federico is a PhD student in the Branco lab where he is working to combine innate threat responses with
+spatial navigation to investigate decision making strategies in innate behaviours in rodents.&lt;/p&gt;
 &lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of communications</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/Federico%20Claudi.jpg%22%7D" /></entry><entry><title type="html">Danbee Kim</title><link href="http://localhost:4000/members/member_DanbeeKim/" rel="alternate" type="text/html" title="Danbee Kim" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member_DanbeeKim</id><content type="html" xml:base="http://localhost:4000/members/member_DanbeeKim/">&lt;p&gt;&lt;img src=&quot;/images/Members/DanbeeKim.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;inline-btn&quot;&gt;
@@ -74,6 +343,13 @@ at alum dot mit dot edu.&lt;/p&gt;
 &lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of socials</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/DanbeeKim.jpg%22%7D" /></entry><entry><title type="html">Anna Lebedeva</title><link href="http://localhost:4000/members/member_AnnaLebedeva/" rel="alternate" type="text/html" title="Anna Lebedeva" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/members/member_AnnaLebedeva</id><content type="html" xml:base="http://localhost:4000/members/member_AnnaLebedeva/">&lt;p&gt;&lt;img src=&quot;/images/Members/anna_photo_160.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
+  &lt;p&gt;Anna’s role in a PhD society is to organise and coordinate the symposia.
+ This includes choosing a topic and the format of the event, inviting speakers
+  that work on the topic and complement each other, taking care of the venue
+   and the guest list.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
   &lt;p&gt;Anna Lebedeva studies innate behaviours, including escaping from threatening stimuli, in two species: zebrafish and mice.
  The aim of the research is to discover the mechanism that implements the visuo-motor transformation,
   while using the best of both worlds: light-sheet imaging, allowing to record the majority of the fish’s brain
@@ -89,7 +365,7 @@ at alum dot mit dot edu.&lt;/p&gt;
     Harris, a project in Dr. Bianco lab and a project in Dr. Branco lab. Her undergraduate research
      was conducted at the department of Mathematics and Mechanics of Moscow State University, where
       she focused on statistics and graph theory&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of events coordination</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/anna_photo_160.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests/Guest1/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests/Guest1</id><content type="html" xml:base="http://localhost:4000/guests/Guest1/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="members" /><summary type="html">Our head of events coordination</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Members/anna_photo_160.jpg%22%7D" /></entry><entry><title type="html">Some One</title><link href="http://localhost:4000/guests_template/guest_template/" rel="alternate" type="text/html" title="Some One" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/guests_template/guest_template</id><content type="html" xml:base="http://localhost:4000/guests_template/guest_template/">&lt;p&gt;&lt;img src=&quot;/images/bio-photo.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;inline-btn&quot;&gt;
   &lt;div&gt;   &lt;/div&gt;
@@ -98,202 +374,24 @@ at alum dot mit dot edu.&lt;/p&gt;
 &lt;!-- /.share-this --&gt;
 
 &lt;h2 id=&quot;brief-description-of-the-guest&quot;&gt;Brief description of the Guest&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="guests" /><summary type="html">Here is were we put a brief drscription of the guest. Something related to their role in the event?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1</id><content type="html" xml:base="http://localhost:4000/events-archived/event1/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="guests_template" /><summary type="html">Here is were we put a brief drscription of the guest. Something related to their role in the event?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22bio-photo.jpg%22%7D" /></entry><entry><title type="html">Yoh Isogai</title><link href="http://localhost:4000/quanta/guest_YohIsogaio/" rel="alternate" type="text/html" title="Yoh Isogai" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/quanta/guest_YohIsogaio</id><content type="html" xml:base="http://localhost:4000/quanta/guest_YohIsogaio/">&lt;p&gt;&lt;img src=&quot;/images/Guests/YohIsogai.jpg&quot; alt=&quot;personImg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
-&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
-   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
-        &lt;/a&gt;
-    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
-    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;Here is were we put a brief drscription of the guest. Something related to their role in the event?&lt;/p&gt;
-  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
-
-  &lt;/article&gt;&lt;!-- /.tile --&gt;
-
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+&lt;div class=&quot;inline-btn&quot;&gt;
+  &lt;div&gt;   &lt;/div&gt;
+	&lt;a class=&quot;btn-social website&quot; href=&quot;https://www.isogailab.org/&quot; target=&quot;_blank&quot;&gt; Website&lt;/a&gt;
 &lt;/div&gt;
-&lt;!-- /.tiles --&gt;
+&lt;!-- /.share-this --&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1-Copy/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1%20-%20Copy</id><content type="html" xml:base="http://localhost:4000/events-archived/event1-Copy/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
+&lt;p&gt;The Isogai lab at the Sainsbury Wellcome Centre investigates social behaviors as
+ a fascinating model to delineate the links between genes, circuits 
+ and complex natural behaviors. We use molecular and systems neuroscience
+  approaches to discover the molecular underpinnings of neural circuit functions and
+   to resolve two major questions in neuroscience:&lt;/p&gt;
 
-&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
+&lt;p&gt;1) How are social cues, including pheromones, detected and processed in the brain?&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
+&lt;p&gt;2) How do genes control neural circuit homeostasis, modulation, and reprogramming?&lt;/p&gt;
 
-&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
-&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
-   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
-        &lt;/a&gt;
-    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
-    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;Here is were we put a brief drscription of the guest. Something related to their role in the event?&lt;/p&gt;
-  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
-
-  &lt;/article&gt;&lt;!-- /.tile --&gt;
-
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-&lt;/div&gt;
-&lt;!-- /.tiles --&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A past event!</title><link href="http://localhost:4000/events-archived/event1-Copy-(5)/" rel="alternate" type="text/html" title="A past event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events-archived/event1%20-%20Copy%20(5)</id><content type="html" xml:base="http://localhost:4000/events-archived/event1-Copy-(5)/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
-
-&lt;p&gt;WE CAN ALSO ADD PHOTOS, STUFF THAT PEOPLE WROTE ABOUT THE EVENT, TWEETS AND SO ON…&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
-&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
-   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
-        &lt;/a&gt;
-    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
-    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;Here is were we put a brief drscription of the guest. Something related to their role in the event?&lt;/p&gt;
-  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
-
-  &lt;/article&gt;&lt;!-- /.tile --&gt;
-
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-&lt;/div&gt;
-&lt;!-- /.tiles --&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events-archived" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry><entry><title type="html">A cool event!</title><link href="http://localhost:4000/events/event1/" rel="alternate" type="text/html" title="A cool event!" /><published>2018-07-25T18:47:00+01:00</published><updated>2018-07-25T18:47:00+01:00</updated><id>http://localhost:4000/events/event1</id><content type="html" xml:base="http://localhost:4000/events/event1/">&lt;h1 id=&quot;event-title&quot;&gt;Event title&lt;/h1&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;info-datevenue&quot;&gt;Info [date/venue]&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;
-
-&lt;h2 id=&quot;list-of-partecipants&quot;&gt;List of partecipants&lt;/h2&gt;
-&lt;div class=&quot;tiles-square&quot; style=&quot;height: 700px;&quot;&gt;
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      &lt;article class=&quot;tile-square&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot;&gt;
-   &lt;a style=&quot;float:left;&quot; href=&quot;http://localhost:4000/guests/Guest1/&quot; title=&quot;Some One&quot; class=&quot;post-teaser&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/images/bio-photo.jpg&quot; alt=&quot;teaser&quot; itemprop=&quot;image&quot; /&gt;
-        &lt;/a&gt;
-    &lt;h2 class=&quot;post-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://localhost:4000/guests/Guest1/&quot;&gt;Some One&lt;/a&gt;&lt;/h2&gt;
-    &lt;p class=&quot;post-excerpt&quot; itemprop=&quot;description&quot;&gt;Here is were we put a brief drscription of the guest. Something related to their role in the event?&lt;/p&gt;
-  &lt;div class=&quot;vertical-line&quot; style=&quot;height: 45px;&quot; /&gt;
-
-  &lt;/article&gt;&lt;!-- /.tile --&gt;
-
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-&lt;/div&gt;
-&lt;!-- /.tiles --&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.&lt;/p&gt;</content><author><name></name></author><category term="events" /><summary type="html">Here is where you put a brief description of the event KSGBJSKNGJEARNBGIAERNGKJ;RE</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22events_teaser.jpg%22,%20%22feature%22=%3E%22events_feature.jpg%22%7D" /></entry></feed>
+&lt;p&gt;We focus on developing cutting-edge methods that enable us to tackle these questions
+ from unique perspectives. We thereby aim to attain a detailed understanding of the molecular
+  and neural basis for how external stimuli impact the physiology and behavior of animals.&lt;/p&gt;</content><author><name></name></author><category term="quanta" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22Guests/YohIsogai.jpg%22%7D" /></entry></feed>

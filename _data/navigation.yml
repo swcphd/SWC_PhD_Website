@@ -1,21 +1,23 @@
 # Site navigation links
 
-- title: The Centre
-  url: /centre/
-  excerpt: "Info about the SWC and GCNU"
-  image: swc_drawing.jpg
+- title: Events
+  url: /events/
+  excerpt: "All the events we organise go here"
+  image: events_teaser.jpg
 
-- title: Resources
-  url: /resources/
-  excerpt: "Stuff for students"
-  image: resources_teaser.jpg
 
 - title: The Society
   url: /society/
   excerpt: "The committee of the society"
   image: society_teaser.jpg
 
-- title: Events
-  url: /events/
-  excerpt: "All the events we organise go here"
-  image: events_teaser.jpg
+- title: Resources
+  url: /resources/
+  excerpt: "Stuff for students"
+  image: resources_teaser.jpg
+
+
+- title: The Centre
+  url: /centre/
+  excerpt: "Info about the SWC and GCNU"
+  image: swc_drawing.jpg

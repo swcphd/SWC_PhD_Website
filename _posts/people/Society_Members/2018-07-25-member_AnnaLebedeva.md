@@ -19,7 +19,10 @@ category: members
 {% if page.category != guests %}{% include personal-social.html %}{% endif %}
 {% endif %}
 
-
+> Anna's role in a PhD society is to organise and coordinate the symposia.
+ This includes choosing a topic and the format of the event, inviting speakers
+  that work on the topic and complement each other, taking care of the venue
+   and the guest list.
 
 > Anna Lebedeva studies innate behaviours, including escaping from threatening stimuli, in two species: zebrafish and mice.
  The aim of the research is to discover the mechanism that implements the visuo-motor transformation,
