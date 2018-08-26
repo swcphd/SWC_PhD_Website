@@ -3,6 +3,9 @@ layout: archive
 title: The centre
 image:
   teaser: swc_drawing.jpg
+  
+  
+url: https://swcphd.github.io/SWC_PhD_Website/centre
 share: false
 website: http://www.gatsby.ucl.ac.uk/
 ---

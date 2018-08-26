@@ -1,7 +1,9 @@
 ---
 layout: archive
 title: Events
-url: /events
+url: https://swcphd.github.io/SWC_PhD_Website/events
+url: https://swcphd.github.io/SWC_PhD_Website/events
+url: https://swcphd.github.io/SWC_PhD_Website/events
 share: false
 ---
 
