@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e625787-073a-4ce6-b623-adcbac6f8c00" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/centre/index.html" afterPath="$PROJECT_DIR$/_site/centre/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/events-archived_template/event_archived_template/index.html" afterPath="$PROJECT_DIR$/_site/events-archived_template/event_archived_template/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/events/CrossSpecies/index.html" afterPath="$PROJECT_DIR$/_site/events/CrossSpecies/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/events/DecisionMaking/index.html" afterPath="$PROJECT_DIR$/_site/events/DecisionMaking/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/events/Quanta/index.html" afterPath="$PROJECT_DIR$/_site/events/Quanta/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/events/index.html" afterPath="$PROJECT_DIR$/_site/events/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/events_template/event_template/index.html" afterPath="$PROJECT_DIR$/_site/events_template/event_template/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/guests_template/guest_template/index.html" afterPath="$PROJECT_DIR$/_site/guests_template/guest_template/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/intro/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/members/member_AnnaLebedeva/index.html" afterPath="$PROJECT_DIR$/_site/members/member_AnnaLebedeva/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/members/member_DanbeeKim/index.html" afterPath="$PROJECT_DIR$/_site/members/member_DanbeeKim/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/members/member_FedericoClaudi/index.html" afterPath="$PROJECT_DIR$/_site/members/member_FedericoClaudi/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/members/member_SimonThompson/index.html" afterPath="$PROJECT_DIR$/_site/members/member_SimonThompson/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/members_template/member_template/index.html" afterPath="$PROJECT_DIR$/_site/members_template/member_template/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/quanta/guest_ElisaGalliano/index.html" afterPath="$PROJECT_DIR$/_site/quanta/guest_ElisaGalliano/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/quanta/guest_KostasLagogiannis/index.html" afterPath="$PROJECT_DIR$/_site/quanta/guest_KostasLagogiannis/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/quanta/guest_NickSteinmetz/index.html" afterPath="$PROJECT_DIR$/_site/quanta/guest_NickSteinmetz/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/quanta/guest_PabloIzquierdo/index.html" afterPath="$PROJECT_DIR$/_site/quanta/guest_PabloIzquierdo/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/quanta/guest_VictoriaGonzalez/index.html" afterPath="$PROJECT_DIR$/_site/quanta/guest_VictoriaGonzalez/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/quanta/guest_YohIsogaio/index.html" afterPath="$PROJECT_DIR$/_site/quanta/guest_YohIsogaio/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/resources/index.html" afterPath="$PROJECT_DIR$/_site/resources/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/society/index.html" afterPath="$PROJECT_DIR$/_site/society/index.html" />
-      <change beforePath="$PROJECT_DIR$/events.md" afterPath="$PROJECT_DIR$/events.md" />
-      <change beforePath="$PROJECT_DIR$/society.md" afterPath="$PROJECT_DIR$/society.md" />
+      <change beforePath="$PROJECT_DIR$/centre.md" afterPath="$PROJECT_DIR$/centre.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -82,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="centre.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="centre.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/centre.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -162,11 +133,11 @@
         <option value="$PROJECT_DIR$/_includes/intro_resources.html" />
         <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/resources.md" />
-        <option value="$PROJECT_DIR$/centre.md" />
         <option value="$PROJECT_DIR$/events.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/society.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/centre.md" />
       </list>
     </option>
   </component>
@@ -626,14 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/centre.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/events.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -670,6 +633,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/centre.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding />
         </state>
       </provider>
