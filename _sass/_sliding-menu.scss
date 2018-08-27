@@ -21,7 +21,9 @@
    ========================================================================== */
 
 .sliding-menu-button {
-  position: fixed;
+  position: absolute;
+    left: 100px;
+    top: 150px;
   transform: translateZ(0);
   backface-visibility: hidden; /* fix scroll jank */
   top: $gutter;

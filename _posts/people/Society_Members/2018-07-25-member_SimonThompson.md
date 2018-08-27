@@ -12,7 +12,7 @@ category: members
 
 ---
 
-![personImg](/images/Members/SimonThompson.jpg)
+![personImg]({{ site.url }}/images/Members/SimonThompson.jpg)
 
 
 

@@ -12,7 +12,7 @@ website: https://www.linkedin.com/in/pabloizquierdogarrudo/?ppe=1
 
 ---
 
-![personImg](/images/Guests/PabloIzquierdo.jpg)
+![personImg]({{ site.url }}/images/Guests/PabloIzquierdo.jpg)
 
 {% if page.website %}
 {% include website-button.html %}

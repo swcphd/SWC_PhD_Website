@@ -13,7 +13,7 @@ category: quanta
 website: http://www.nicksteinmetz.com/
 ---
 
-![personImg](/images/Guests/NickSteinmetz.jpg)
+![personImg]({{ site.url }}/images/Guests/NickSteinmetz.jpg)
 
 {% if page.website %}
 {% include website-button.html %}

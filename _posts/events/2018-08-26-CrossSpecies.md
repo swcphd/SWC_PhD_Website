@@ -5,8 +5,8 @@ category: events
 
 image:
 image:
-  teaser: events_teaser_large.jpg
-  feature: events_teaser_large.jpg
+  teaser: Events/cross_species_feature.jpg
+  feature:  Events/cross_species_feature.jpg
   
 share: true
 
@@ -15,7 +15,6 @@ event_date: 21st Septmeber 2018
 
 ---
 
-# Cross-species conversations
 ## Integrating findings across different nervous systems
 Our goal is to think about and discuss how neuroscientific research methods can be improved in order
  to better integrate research findings from individual species into general principles of nervous systems.
@@ -30,6 +29,7 @@ Panel : Jennifer Bizley, Tim Behrens, Andre Brown
 
 ### Event details
 This event will take place at the Sainsbury Wellcome Centre on teh 21st of September 2018
+[Link](https://www.eventbrite.co.uk/e/cross-species-conversations-integrating-findings-across-nervous-systems-tickets-48327837864?aff=efbeventtix)
 
 ## List of partecipants
 <div class="tiles-square" style="height: 700px;">
@@ -40,7 +40,6 @@ This event will take place at the Sainsbury Wellcome Centre on teh 21st of Septe
   {% endfor %}
 </div><!-- /.tiles -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sodales lacus nec orci feugiat varius. Donec venenatis metus velit, eu tempus quam finibus vitae. Sed vel lorem in lectus lobortis feugiat et eu tortor. Etiam semper justo nec ex volutpat, eget porta est aliquet. Sed molestie metus vitae orci tempus, a gravida nulla accumsan. Donec vitae metus ligula. Nam fringilla venenatis aliquet. Curabitur tristique neque at facilisis sagittis. Duis et posuere ante. Maecenas egestas sit amet enim ut feugiat.
 
 
 

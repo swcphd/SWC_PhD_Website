@@ -13,7 +13,7 @@ category: members_template
 twitter: "https:twitter.com"
 ---
 
-![personImg](/images/bio-photo.jpg)
+![personImg]({{ site.url }}/images/bio-photo.jpg)
 
 
 

@@ -13,7 +13,7 @@ category: quanta
 website: https://www.pdn.cam.ac.uk/directory/elisa-galliano
 ---
 
-![personImg](/images/Guests/ElisaGalliano.jpg)
+![personImg]({{ site.url }}/images/Guests/ElisaGalliano.jpg)
 
 {% if page.website %}
 {% include website-button.html %}

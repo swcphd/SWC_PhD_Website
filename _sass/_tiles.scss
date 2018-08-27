@@ -36,6 +36,7 @@
   .post-excerpt {
     @include font-size(18);
     padding-left: 15px;
+    display: inline;
   }
   .post-teaser {
     position: relative;
