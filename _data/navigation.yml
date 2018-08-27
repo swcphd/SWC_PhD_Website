@@ -1,23 +1,23 @@
 # Site navigation links
 
 - title: Events
-  url: https://swcphd.github.io/SWC_PhD_Websit/events/
+  url: /events/
   excerpt: "All the events we organise go here"
   image: events_teaser.jpg
 
 
 - title: The Society
-  url: https://swcphd.github.io/SWC_PhD_Websit/society/
+  url: /society/
   excerpt: "The committee of the society"
   image: society_teaser.jpg
 
 - title: Resources
-  url: https://swcphd.github.io/SWC_PhD_Websit/resources/
+  url: /resources/
   excerpt: "Stuff for students"
   image: resources_teaser.jpg
 
 
 - title: The Centre
-  url: https://swcphd.github.io/SWC_PhD_Websit/centre/
+  url: /centre/
   excerpt: "Info about the SWC and GCNU"
   image: swc_drawing.jpg

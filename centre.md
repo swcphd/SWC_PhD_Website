@@ -5,7 +5,7 @@ image:
   teaser: swc_drawing.jpg
   
   
-url: /centre
+url: /centre/
 share: false
 website: http://www.gatsby.ucl.ac.uk/
 ---
