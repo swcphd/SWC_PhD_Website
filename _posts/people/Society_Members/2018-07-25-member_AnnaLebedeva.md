@@ -11,7 +11,7 @@ share: false
 category: members
 ---
 
-![personImg](/images/Members/anna_photo_160.jpg){:class="img-responsive"}  
+![personImg](/images/Members/anna_photo_160.jpg)
 
 
 

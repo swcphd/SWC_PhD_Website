@@ -12,7 +12,7 @@ category: quanta
 
 ---
 
-![personImg](/images/Guests/KostasLagogiannis.jpg){:class="img-responsive"}  
+![personImg](/images/Guests/KostasLagogiannis.jpg)
 
 {% if page.website %}
 {% include website-button.html %}

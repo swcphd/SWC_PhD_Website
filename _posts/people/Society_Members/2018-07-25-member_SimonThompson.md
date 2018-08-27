@@ -12,7 +12,7 @@ category: members
 
 ---
 
-![personImg](/images/Members/SimonThompson.jpg){:class="img-responsive"}  
+![personImg](/images/Members/SimonThompson.jpg)
 
 
 

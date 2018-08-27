@@ -13,7 +13,7 @@ category: members_template
 twitter: "https:twitter.com"
 ---
 
-![personImg](/images/bio-photo.jpg){:class="img-responsive"}  
+![personImg](/images/bio-photo.jpg)
 
 
 

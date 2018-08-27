@@ -12,7 +12,7 @@ category: quanta
 
 ---
 
-![personImg](/images/Guests/VictoriaGonzalez.jpg){:class="img-responsive"}  
+![personImg](/images/Guests/VictoriaGonzalez.jpg)
 
 {% if page.website %}
 {% include website-button.html %}

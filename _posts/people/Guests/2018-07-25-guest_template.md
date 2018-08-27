@@ -14,7 +14,7 @@ website: http://google.com
 excerpt: Here is were we put a brief drscription of the guest. Something related to their role in the event?
 ---
 
-![personImg](/images/bio-photo.jpg){:class="img-responsive"}  
+![personImg](/images/bio-photo.jpg)
 
 {% if page.website %}
 {% include website-button.html %}

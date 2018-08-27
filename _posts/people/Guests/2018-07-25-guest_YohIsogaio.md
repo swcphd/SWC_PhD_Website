@@ -13,7 +13,7 @@ category: quanta
 website: https://www.isogailab.org/
 ---
 
-![personImg](/images/Guests/YohIsogai.jpg){:class="img-responsive"}  
+![personImg](/images/Guests/YohIsogai.jpg)
 
 {% if page.website %}
 {% include website-button.html %}

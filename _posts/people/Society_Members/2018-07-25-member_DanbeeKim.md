@@ -13,7 +13,7 @@ category: members
 twitter: "https://twitter.com/@taunbot"
 ---
 
-![personImg](/images/Members/DanbeeKim.jpg){:class="img-responsive"}  
+![personImg](/images/Members/DanbeeKim.jpg)
 
 
 

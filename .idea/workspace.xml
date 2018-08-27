@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e625787-073a-4ce6-b623-adcbac6f8c00" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/intro_events.html" afterPath="$PROJECT_DIR$/_includes/intro_events.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/intro_resources.html" afterPath="$PROJECT_DIR$/_includes/intro_resources.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/intro_society.html" afterPath="$PROJECT_DIR$/_includes/intro_society.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_ElisaGalliano.md" afterPath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_ElisaGalliano.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_KostasLagogiannis.md" afterPath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_KostasLagogiannis.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_NickSteinmetz.md" afterPath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_NickSteinmetz.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_PabloIzquierdo.md" afterPath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_PabloIzquierdo.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_VictoriaGonzalez.md" afterPath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_VictoriaGonzalez.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_YohIsogaio.md" afterPath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_YohIsogaio.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_template.md" afterPath="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_template.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_AnnaLebedeva.md" afterPath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_AnnaLebedeva.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_DanbeeKim.md" afterPath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_DanbeeKim.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_FedericoClaudi.md" afterPath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_FedericoClaudi.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_SimonThompson.md" afterPath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_SimonThompson.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_template.md" afterPath="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_template.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,108 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="intro_centre.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/intro_centre.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="intro_events.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/intro_events.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="52" lean-forward="false" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="intro_resources.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/intro_resources.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="52" lean-forward="false" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="intro_society.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/intro_society.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="52" lean-forward="false" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="society.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/society.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="centre.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/centre.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="events.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/events.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -132,24 +40,14 @@
         <option value="$PROJECT_DIR$/_sass/_roundbox.scss" />
         <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-08-25-AnnaLebedeva.md" />
         <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_AnnaLebedeva2.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_template.md" />
         <option value="$PROJECT_DIR$/_includes/personal-social.html" />
-        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_SimonThompson.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_DanbeeKim.md" />
         <option value="$PROJECT_DIR$/_includes/fading_igm.html" />
         <option value="$PROJECT_DIR$/_posts/events/archived/2018-07-25-event1.md" />
         <option value="$PROJECT_DIR$/_posts/events/2018-07-25-event_template.md" />
         <option value="$PROJECT_DIR$/_includes/post-grid-square.html" />
         <option value="$PROJECT_DIR$/_includes/post-grid.html" />
-        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_AnnaLebedeva.md" />
         <option value="$PROJECT_DIR$/_data/messages.yml" />
         <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-Guest1.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_ElisaGalliano.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_YohIsogaio.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_NickSteinmetz.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_VictoriaGonzalez.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_KostasLagogiannis.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_PabloIzquierdo.md" />
         <option value="$PROJECT_DIR$/_includes/share-this.html" />
         <option value="$PROJECT_DIR$/_layouts/article.html" />
         <option value="$PROJECT_DIR$/_sass/_buttons.scss" />
@@ -158,7 +56,6 @@
         <option value="$PROJECT_DIR$/_posts/events/2018-08-26-Quanta.md" />
         <option value="$PROJECT_DIR$/_posts/events/2018-08-26-DecisionMaking.md" />
         <option value="$PROJECT_DIR$/_posts/events/2018-08-26-CrossSpecies.md" />
-        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_FedericoClaudi.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/resources.md" />
@@ -171,6 +68,18 @@
         <option value="$PROJECT_DIR$/_includes/intro_events.html" />
         <option value="$PROJECT_DIR$/_includes/intro_resources.html" />
         <option value="$PROJECT_DIR$/_includes/intro_society.html" />
+        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_VictoriaGonzalez.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_NickSteinmetz.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_KostasLagogiannis.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_ElisaGalliano.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_PabloIzquierdo.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_template.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_YohIsogaio.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_template.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_DanbeeKim.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_AnnaLebedeva.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_FedericoClaudi.md" />
+        <option value="$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_SimonThompson.md" />
       </list>
     </option>
   </component>
@@ -214,6 +123,34 @@
               <item name="SWC_PhD_Website" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWC_PhD_Website" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SWC_PhD_Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SWC_PhD_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SWC_PhD_Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SWC_PhD_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="people" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SWC_PhD_Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SWC_PhD_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="people" type="462c0819:PsiDirectoryNode" />
+              <item name="Society_Members" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SWC_PhD_Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SWC_PhD_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SWC_PhD_Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SWC_PhD_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,9 +203,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="5749" y="-11" width="2182" height="3802" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809412" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809412" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -363,34 +299,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_template.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_SimonThompson.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_DanbeeKim.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -435,74 +347,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_AnnaLebedeva.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/messages.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_template.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_ElisaGalliano.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_YohIsogaio.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_NickSteinmetz.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_VictoriaGonzalez.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_KostasLagogiannis.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_PabloIzquierdo.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -571,26 +419,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_FedericoClaudi.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intro.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1376">
-          <caret line="70" column="13" lean-forward="false" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -667,7 +499,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/intro_resources.html">
+    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_NickSteinmetz.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_KostasLagogiannis.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_ElisaGalliano.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_VictoriaGonzalez.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/intro_events.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="52" lean-forward="false" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
@@ -675,7 +539,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/intro_events.html">
+    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_PabloIzquierdo.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_template.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Guests/2018-07-25-guest_YohIsogaio.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_DanbeeKim.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_AnnaLebedeva.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_FedericoClaudi.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_SimonThompson.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/people/Society_Members/2018-07-25-member_template.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/intro_resources.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="52" lean-forward="false" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />

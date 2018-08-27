@@ -14,7 +14,7 @@ twitter: "https://twitter.com/@Federico_claudi"
 
 ---
 
-![personImg](/images/Members/Federico Claudi.jpg){:class="img-responsive"}  
+![personImg](/images/Members/Federico Claudi.jpg)
 
 
 
