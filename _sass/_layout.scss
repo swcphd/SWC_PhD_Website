@@ -30,7 +30,7 @@
 	color: $white;
 	font-family: $alt-font;
 	font-weight: 700;
-	font-size: 4vw;
+	font-size: calc(16px + 1vw);
 	@media only screen and (max-width: 600px) {
 		padding: (.5 * $masthead-height) 0px  (.6 * $masthead-height) 20vw; // fourth the height to center vertically
     font-size: 5vw;
