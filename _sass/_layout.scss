@@ -169,15 +169,27 @@
 					@include font-size(20,yes,30);
 				}
 			}
+
+
 			// cleaner underlines for links
-			a { text-decoration: none; }
+			a { text-decoration: none;
+			    color: black;
+			    }
 			p a,
 			li a {
-				border-bottom: 1px dotted lighten($link-color, 10);
+				font-size: 24px;
+        font-weight: 900;
+
 				&:hover {
 					border-bottom-style: solid;
+        font-weight: 1600;
+
 				}
+
+
 			}
+
+
 			p > a.reversefootnote {
 				border-bottom-width: 0;
 			}
@@ -280,6 +292,7 @@
 	// expand image to cover full width of header
 	img {
 		width: 100%;
+		max-width: 75 vw;
 	}
 }
 // make image flush with edges on small screens

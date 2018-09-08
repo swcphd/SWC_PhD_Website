@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Decision making – choosing the tools to discover the rules
-category: events
+category: events_workinprogress
 
 image:
 image:

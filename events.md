@@ -22,10 +22,10 @@ If you have an awesome idea for an event you would like for us to organise, get 
 
 
 
-<div class="tiles-square">
+<div class="tiles">
 {% for post in site.posts %}
   {% if post.categories contains 'events-archived' %}
-	{% include post-grid-square.html %}
+	{% include post-grid.html %}
 	{% endif %}
 {% endfor %}
 </div><!-- /.tiles --> 
