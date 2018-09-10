@@ -34,8 +34,8 @@ category: members
 > Anna's previous work includes research projects at the VU University of Amsterdam,
  where she did electrophysiology recordings in mouse and human brain tissue; at the UCSF,
   where she studied primary visual cortex plasticity in adult mice using calcium imaging.
-   Her rotations as a PhD student at SWC include a project in the lab of prof. Carandini and prof. 
-   Harris using Neuropixels probes, a project in Dr. Bianco lab using light-sheet imaging and a 
+   Her rotations as a PhD student at SWC include a project in the lab of Prof. Carandini and Prof. 
+   Harris using Neuropixels probes, a project in Dr. Bianco lab using light-sheet imaging, and a 
    project in Dr. Branco lab on innate behaviours. Her undergraduate research was conducted at 
    the department of Mathematics and Mechanics of Moscow State University, where she focused on
     statistics and graph theory.
