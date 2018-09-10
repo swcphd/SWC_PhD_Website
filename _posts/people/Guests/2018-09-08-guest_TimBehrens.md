@@ -28,9 +28,9 @@ We do cross-species investigations that try to investigate neural codes
     models to try to understand what coding principles are possible or likely,
      and we try to invent novel imaging approaches to measure them in humans. 
      It is difficult to infer microscopic coding principles from coarse macroscopic data,
-      so we often find ourselves retreating to nonhuman models to validate our conclusions.
+      so we often find ourselves retreating to non-human models to validate our conclusions.
        But it is important to be able to investigate neural coding principles in humans
-        where behvaviour is complex and subjects can perform naturally. It is also exciting 
+        where behaviour is complex and subjects can perform naturally. It is also exciting 
         to devise such approaches as it potentially allows clinical investigations in 
         humans to specify questions at the level of mechanisms. Currently, a PhD in humans
          with me would likely involve performing brain imaging and computational
