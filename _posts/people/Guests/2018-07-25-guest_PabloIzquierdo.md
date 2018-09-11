@@ -4,7 +4,7 @@ title: Pablo Izquierdo
 date: 2018-07-25 18:47 +0100
 
 image:
-  teaser: Guests/PabloIzquierdo.jpg
+  teaser: Guests/PabloIzquierdo.png
   
 share: false
 category: quanta
